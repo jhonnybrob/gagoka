@@ -226,7 +226,8 @@ public class CreateUsersF extends javax.swing.JFrame {
         });
         getContentPane().add(cc, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 240, 80, -1));
 
-        jPanel1.setBackground(new java.awt.Color(204, 255, 204));
+        jPanel1.setBackground(new java.awt.Color(204, 0, 0));
+        jPanel1.setForeground(new java.awt.Color(204, 0, 0));
         jPanel1.setLayout(null);
 
         jLabel1.setText("CREATE FORM");
